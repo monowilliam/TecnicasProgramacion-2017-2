@@ -1,0 +1,2 @@
+# Practica 01 - Técnicas y Fundamentos de Programación
+El objetivo de la practicá es evaluar los tiempos de ejecución de cada algoritmo para diferentes tamaños y construir la graficá de tiempo de ejecución vs. tamaño de la entrada. Para esto clone el repoositorio y modifique el archivo "principal.c" ejecutando el programa con uno de los algoritmos de ordenamiento para diferentes tamaños de entradas y midiendo los tiempos. Esto lo realiza para los tres algoritmos de ordenamiento: sortBB, sortIS, sortMS. 
